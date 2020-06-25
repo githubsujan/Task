@@ -1,0 +1,13 @@
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task.deps.json
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task.runtimeconfig.json
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task.runtimeconfig.dev.json
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task.dll
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/bin/Debug/netcoreapp3.1/Task.pdb
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.csprojAssemblyReference.cache
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.AssemblyInfoInputs.cache
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.AssemblyInfo.cs
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.csproj.CoreCompileInputs.cache
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.dll
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.pdb
+/home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.genruntimeconfig.cache
