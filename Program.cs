@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Task
+﻿namespace Task
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WorkingHours.GetMinimumAverageHours();
         }
     }
 }

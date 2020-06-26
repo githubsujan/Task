@@ -11,3 +11,16 @@
 /home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.dll
 /home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.pdb
 /home/sujan/Documents/ubuntu_data/My_Own/DotNet/Task/obj/Debug/netcoreapp3.1/Task.genruntimeconfig.cache
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\My_Files\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\My_Files\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
